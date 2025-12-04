@@ -9,4 +9,4 @@ I created this ERD by reverse-engineering the startup’s database in MySQL Work
 
 * Delivered this diagram to the Startup Founder to provide a clear, actionable overview of the database structure, aiding future optimization and refactoring efforts.
 
-![ERD Diagram](https://github.com/kbespinoza/startup_db_demo/blob/main/startup_ERD_demo.png)
+![ERD Diagram](https://github.com/kbespinoza/startup_db_portfolio/blob/main/docs/erd_model_demo.png)
