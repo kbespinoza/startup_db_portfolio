@@ -65,7 +65,6 @@ All datasets in this repository are synthetic and safe for public viewing.
 
 * PK/FK constraint mapping
 
-* Indexing patterns
 
 ### 🐍 2. Python Data Exploration
 
