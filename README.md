@@ -1,7 +1,7 @@
-# 🚀 Startup Database Mapping & Documentation (Demo Portfolio)
+# Startup Database Mapping & Documentation (Demo Portfolio)
 A fully synthetic recreation of a real project I completed for a tech startup using MySQL Workbench and Python.
 
-## ✅ This project showcases my experience in:
+## This project showcases my experience in:
 
 * SQL schema analysis
 
@@ -80,7 +80,7 @@ All datasets in this repository are synthetic and safe for public viewing.
 * ERD Model 
 
 
-## 📬Contact
+## Contact
 
 * LinkedIn: https://www.linkedin.com/in/kerstin-espinoza/
   
