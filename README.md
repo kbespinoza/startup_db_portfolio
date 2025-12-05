@@ -18,7 +18,7 @@ No real company data or proprietary information is included.
 All datasets in this repository are synthetic and safe for public viewing.
 
 
-## 🗂️ I. Repository Structure
+## I. Repository Structure
 - **README.md**
 - **docs/**
   - erd_model_demo.png
@@ -30,7 +30,7 @@ All datasets in this repository are synthetic and safe for public viewing.
   - schema_queries.sql
 
 
-## 📖 II. Project Workflow
+## II. Project Workflow
 
 * Loaded database schema (synthetic version of the real one)
 
@@ -45,7 +45,7 @@ All datasets in this repository are synthetic and safe for public viewing.
 * Built a full data dictionary
 
 
-## 🔧 III. Tools Used
+## III. Tools Used
 
 * MySQL Workbench
 
@@ -56,8 +56,8 @@ All datasets in this repository are synthetic and safe for public viewing.
 * Google Sheets for documentation (in original real-world project)
 
 
-## 🧰 IV. Demonstrated Abilities
-### 🛠️ 1. SQL & Database Skills
+## IV. Demonstrated Abilities
+### 1. SQL & Database Skills
 
 * Schema analysis
 
@@ -66,12 +66,12 @@ All datasets in this repository are synthetic and safe for public viewing.
 * PK/FK constraint mapping
 
 
-### 🐍 2. Python Data Exploration
+### 2. Python Data Exploration
 
 * Extracting & exploring schema metadata
 
 
-## 📝 V. Documentation
+## V. Documentation
 
 * Clear data dictionary
 
